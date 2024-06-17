@@ -124,5 +124,5 @@ unzip -o DAVIS-2017-Unsupervised-trainval-480p.zip
 
 ## Short query generation
 
-Users can generate the short text expressions according to our paper via Spacy tool. We also refer to this [link](https://drive.google.com/drive/folders/1R3uDAgE-UMusfqzLsfsjUplTYgEQYj3W) to download the short queries.
+Users can generate the short text expressions according to our paper via Spacy tool. We also refer to this [link](https://drive.google.com/drive/folders/1R3uDAgE-UMusfqzLsfsjUplTYgEQYj3W?usp=sharing) to download the short queries.
 
